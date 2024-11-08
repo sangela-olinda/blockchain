@@ -103,4 +103,4 @@ Exibe todos os blocos na blockchain, mostrando:
 Inicia o programa, chamando a função main.
 
 ### Conclusão
-Este código fornece uma implementação básica de uma blockchain, demonstrando conceitos fundamentais como hashing, encadeamento de blocos e validação. A estrutura pode ser expandida com funcionalidades adicionais, como tratamento de erros, persistência de dados e segurança.
+Esse código apresenta operações básicas de uma blockchain e faz ilustrações de uso com o exemplo de uma loja/mercado.
